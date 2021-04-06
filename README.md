@@ -1,0 +1,2 @@
+# Indonesian-Traditional-Market-Food-Image-Classification
+A repository for classifying/identifying Indonesian traditional market foods with codes written in Python. This project that I developed during my study time as bachelor student leverages image processing techniques and neural network (NN) machine learning to classify 11 types of Indonesian traditional market foods. The NN receives features from color and texture information and outputs the corresponding label.
